@@ -38,4 +38,4 @@ THEN the saved events persist
 
 ## Screenshots:
 ### Figure 1. Screenshot
-![](./assets/images/Third-Paarty%20API's%20Work%20Day%20Scheduler.png) 
+![](./assets/images/ScreenShot.jpg)
